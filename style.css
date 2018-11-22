@@ -1,0 +1,116 @@
+body{
+	padding-top: 200px;
+	background-image: url("https://pmcwwd.files.wordpress.com/2018/01/campagna-seprenteyes-eyewear-2.jpg");
+	background-size: 100%;
+}
+
+header {
+	margin: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 141px;
+	background-color : rgba(255, 255, 255, 0.9);
+}
+
+.logo {
+	height: 75px;
+    width: 170px;
+	margin: 0 auto;
+	display: block;
+	float: left;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+
+h1{
+	font-size: 40px;
+	color: white;
+	margin: 100px 200px;
+	font-family: Helvetica;
+}
+
+ul {
+    list-style-type: none;
+	margin: 0;
+    padding: 0;
+    overflow: hidden;
+	margin-left:200px;
+}
+
+li {
+    float: left;
+	margin-top: 5px;
+	margin-left: 10px;
+
+}
+
+li a {
+    display: block;
+    color: #2F4F4F;
+    text-align: center;
+    padding: 12px 12px;
+    text-decoration: none;
+	font-size:17px;
+	font-family: Helvetica;
+	
+}
+
+li a:hover:not(.active) {
+    color: white;
+	background-color : #008B8B;
+	
+}
+
+li a:hover(.active)  {
+    background-color: #40E0D0;
+}
+
+.search {  
+	margin-top: 25px;
+	float: left;
+	height: 50px;  
+	width: 500px;
+	margin-left: 15px;
+	display: block;  
+	box-sizing: border-box;
+	border: 1;  
+	border-color: gray;
+	font-size: 18px;
+	color: black;  
+	background: white;  
+    background-image: url('https://images.vexels.com/media/users/3/132068/isolated/preview/f9bb81e576c1a361c61a8c08945b2c48-search-icon-by-vexels.png') ;
+	background-position: 15px 15px; 
+	background-size: 20px 20px;  
+	background-repeat: no-repeat;
+	padding: 15px 20px 12px 50px;  
+	-webkit-transition: width 0.4s ease-in-out;  
+	transition: width 0.4s ease-in-out;
+}
+
+.button {
+	background-color: transparent;
+	border: none;
+	color: white;
+	width: 180px;
+	height: 30px;
+	float: center;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: block;
+	font-family: Helvetica;
+	font-size: 30px;
+	margin: 0px 0px;
+	cursor: pointer;
+	border: 2px solid white;
+	border-radius: 8px;
+}
+
+.button:hover {
+	background: transparent;
+	-webkit-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	transform: scale(1.1);
+}
