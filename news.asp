@@ -26,7 +26,7 @@
 
 <h1>On this page, the latest news concerning new products or new research results will be posted.</h1>
 <h2>22 November 2018</h2>
-<p>On this day, Meagan created the ASP pages 'About', 'Contact' and 'News'. From now on, we can all work
+<p>Meagan created the ASP pages 'About', 'Contact' and 'News'. From now on, we can all work
 these pages and make them as beautiful and functional as we want.</p>
 
 </body>
