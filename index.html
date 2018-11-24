@@ -7,16 +7,36 @@
 <link rel="stylesheet" type="text/css" href="indexstyle.css">
 </head>
 
-<nav>
-
-<ul class = "logo"><img src = "http://www.webshopxl.com/media/wysiwyg/logo-blue.png" class = "logo">
-  <li><a href="index.html">Home</a></li>
-  <li><a href="news.asp">News</a></li>
-  <li><a href="contact.asp">Contact</a></li>
-  <li><a href="about.asp">About</a></li>
-</ul>
-
+<ul class = "logo"><img src = "http://www.webshopxl.com/media/wysiwyg/logo-blue.png" class = "logo"></ul>
+ <nav> 
+  <a href="index.html">Home</a>
+  <a href="news.asp">News</a>
+  <a href="contact.asp">Contact</a>
+  <a href="about.asp">About</a>
 </nav>
+
+<!-- Tab links -->
+<div class="tab">
+<button class="tablinks" onclick="openTab(item, 'Books')">Books</button>
+<button class="tablinks" onclick="openTab(item, 'Stationary')">Stationary</button>
+<button class="tablinks" onclick="openTab(item, 'Lunch')">Lunch</button>
+</div>
+
+<!-- Tab content -->
+<div id="Books" class="tabcontent">
+<h2>Books</h2>
+<p>In order to study, books are needed.</p>
+</div>
+
+<div id="Stationary" class="tabcontent">
+<h3>Stationary</h3>
+<p>Let's buy some stationary so you can write notes!</p>
+</div>
+
+<div id="Lunch" class="tabcontent">
+<h4>Lunch</h4>
+<p>For lunch, you need a cute waterbottle and probably a very nice lunchbox.</p>
+</div>
 
 
 

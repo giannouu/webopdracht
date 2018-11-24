@@ -15,8 +15,8 @@ header {
 }
 
 .logo {
-	height: 75px;
-    width: 170px;
+	height: 50px;
+    width: 100px;
 	margin: 0 auto;
 	display: block;
 	float: left;
@@ -113,4 +113,18 @@ li a:hover(.active)  {
 	-webkit-transform: scale(1.1);
 	-ms-transform: scale(1.1);
 	transform: scale(1.1);
+}
+.tab {
+	background-color:#f9927c
+}
+.tab button {
+	background-color: inherit;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	padding: 14px 16px;
+	transition: 0.3s;
+}
+.tab button.active {
+	background-color: #febeb0
 }
