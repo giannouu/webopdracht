@@ -2,20 +2,37 @@
 
 
 <head>
+
+<style>
+
+.logo {
+position: absolute;
+	top: 8px;
+	left: 16px;
+	width: 50%;
+	height: auto;
+}
+</style>
+
+<div class = "logo"><img src = "http://www.webshopxl.com/media/wysiwyg/logo-blue.png" class = "logo"></div>
+
+<!-- Tab links -->
+ <div class="tab"> 
+<button><a href="index.html">Home</a></button>
+  <button><a href="news.asp">News</a></button>
+  <button><a href="about.asp">About</a></button>
+  <button><a href="books.asp">Books</a></button>
+  <button><a href="stationary.asp">Stationary</a></button>
+  <button><a href="lunch.asp">Lunch</a></button>
+  <button><a href="contact.asp">Contact</a></button>
+  </div>
+
+
+
+
 <title>About</title>
-<link rel="stylesheet" type="text/css" href="indexstyle.css">
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
-
-<nav>
-
-<ul class = "logo"><img src = "http://www.webshopxl.com/media/wysiwyg/logo-blue.png" class = "logo">
-  <li><a href="index.html">Home</a></li>
-  <li><a href="news.asp">News</a></li>
-  <li><a href="contact.asp">Contact</a></li>
-  <li><a href="about.asp">About</a></li>
-</ul>
-
-</nav>
 
 
 
@@ -50,7 +67,7 @@ for the course <b>'Informatie-uitwisseling'</b>. In this course, we had to creat
 research concerning Trust in e-commerce. With this webshop, we have been able to collect data from multiple
 participants. This data will only be used for this research in this course.</p>
 
-<h3>Privacy concerns</h3>
+<h2>Privacy concerns</h2>
 <p>Thus, this site itself and its content are only part of this teamproject from this course. This course
 is done in the Information science curriculum at the university. Its sole purpose is purely educational
 and there are no commercial interests involved whatsoever.</p>

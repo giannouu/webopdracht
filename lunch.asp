@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 
@@ -24,40 +25,19 @@
   <button><a href="stationary.asp">Stationary</a></button>
   <button><a href="lunch.asp">Lunch</a></button>
   <button><a href="contact.asp">Contact</a></button>
-
 </div>
 
 
-
-
-
-<title>Contact</title>
-<link rel="stylesheet" type="text/css" href="style.css">
-
 </head>
+
 
 <body>
 
+<title>Lunch</title>
+<link rel="stylesheet" type="text/css" href="style.css">
 
-<h1>For inquiries or other collaborations, please contact us via our email:</h1>
-<p>computerscience@students.IUW.nl</p>
-<h2>Want to ask us a question directly?</h2>
-
-<form action="/action_page.php">
-<fieldset>
-<legend>Please fill in this form.</legend>
-First name:<br>
-<input type"text" name="firstname"><br>
-Last name:<br>
-<input type="text" name="lastname"><br>
-Email:<br>
-<input type="text" name="email"><br>
-Message:<br>
-<input type="text" name="message"><br>
-<input type="submit" value="Submit">
-
-</fieldset>
-</form>
+<h1>Of course, you're gonna need a cute lunchbox.</h1>
+<p>And a waterbottle.</p>
 
 </body>
 </html>

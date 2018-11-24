@@ -1,6 +1,5 @@
 body{
 	padding-top: 200px;
-	background-image: url("https://pmcwwd.files.wordpress.com/2018/01/campagna-seprenteyes-eyewear-2.jpg");
 	background-size: 100%;
 }
 
@@ -12,16 +11,6 @@ header {
     right: 0;
     height: 141px;
 	background-color : rgba(255, 255, 255, 0.9);
-}
-
-.logo {
-	height: 50px;
-    width: 100px;
-	margin: 0 auto;
-	display: block;
-	float: left;
-	margin-top: 10px;
-	margin-right: 10px;
 }
 
 h1{
@@ -80,7 +69,6 @@ li a:hover(.active)  {
 	font-size: 18px;
 	color: black;  
 	background: white;  
-    background-image: url('https://images.vexels.com/media/users/3/132068/isolated/preview/f9bb81e576c1a361c61a8c08945b2c48-search-icon-by-vexels.png') ;
 	background-position: 15px 15px; 
 	background-size: 20px 20px;  
 	background-repeat: no-repeat;
@@ -128,3 +116,4 @@ li a:hover(.active)  {
 .tab button.active {
 	background-color: #febeb0
 }
+
