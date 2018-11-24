@@ -1,4 +1,0 @@
-<html>
-<head>Hello World!</head>
-<body>Team 36 van het vak Informatie-uitwisseling</body>
-</html>
