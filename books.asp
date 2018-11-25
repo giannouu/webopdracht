@@ -16,6 +16,13 @@
 
 <div class = "logo"><img src = "http://www.webshopxl.com/media/wysiwyg/logo-blue.png" class = "logo"></div>
 
+
+
+</head>
+
+
+<body>
+
 <!-- Tab links -->
  <div class="tab"> 
     <button><a href="index.html">Home</a></button>
@@ -25,20 +32,17 @@
   <button><a href="stationary.asp">Stationary</a></button>
   <button><a href="lunch.asp">Lunch</a></button>
   <button><a href="contact.asp">Contact</a></button>
-
 </div>
 
-
-</head>
-
-
-<body>
-
-<title>BOOKS</title>
+<h1><b>Books</b></h1><br>
 <link rel="stylesheet" type="text/css" href="style.css">
 
-<h1>yes a lot of schoolbooks</h1>
-<p>YAY</p>
+<h2>yes a lot of schoolbooks</h2><br>
+<p>YAY</p><br>
+
+<footer>
+© 2018-2019 Universiteit Utrecht - Informatiekunde: Informatie-uitwisseling
+</footer><br>
 
 </body>
 </html>

@@ -16,6 +16,12 @@
 
 <div class = "logo"><img src = "http://www.webshopxl.com/media/wysiwyg/logo-blue.png" class = "logo"></div>
 
+
+</head>
+
+
+<body>
+
 <!-- Tab links -->
  <div class="tab"> 
   <button><a href="index.html">Home</a></button>
@@ -27,17 +33,15 @@
   <button><a href="contact.asp">Contact</a></button>
 </div>
 
-
-</head>
-
-
-<body>
-
-<title>Lunch</title>
+<h1><b>Lunch</n></h1><br>
 <link rel="stylesheet" type="text/css" href="style.css">
 
-<h1>Of course, you're gonna need a cute lunchbox.</h1>
-<p>And a waterbottle.</p>
+<h2>Of course, you're gonna need a cute lunchbox.</h2><br>
+<p>And a waterbottle.</p><br>
+
+<footer>
+© 2018-2019 Universiteit Utrecht - Informatiekunde: Informatie-uitwisseling
+</footer><br>
 
 </body>
 </html>
